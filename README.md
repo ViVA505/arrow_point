@@ -4,7 +4,7 @@
 # About project
 **The project was created exclusively by rofl.An application for controlling a pointer in the form of a hand**
 
-[![Watch the video](https://i.imgur.com/CIrhZWd.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.imgur.com/CIrhZWd.png)](https://www.youtube.com/watch?v=ROE0I8_hi3A&t=3s)
 
 
 
